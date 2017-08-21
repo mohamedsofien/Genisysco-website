@@ -1,0 +1,23 @@
+body
+ { 
+	font-family: "Segoe UI", Arial, sans-serif; 
+}
+
+label
+{ 
+	display:block; 
+}
+
+#wrapper
+{
+	width:410px;
+	margin:1px auto;
+	background-color:#FAFAFF;
+	padding:20px;
+	border:5px solid #ccc;
+}
+textarea,input
+{
+	margin-left:100px;
+	width:300px;
+}
